@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radyzuhairi
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python, php
+- 🌱 I’m currently learning python, php ,Laravel
 
 <!---
 radyzuhairi/radyzuhairi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
