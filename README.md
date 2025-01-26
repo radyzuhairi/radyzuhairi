@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @radyzuhairi
-- 👀 I’m interested in Laravel , python
+- 👀 I’m interested in  web application  using Laravel , python
 - 🌱 I’m currently Improving my skills in Laravel , python
 
 <!---
